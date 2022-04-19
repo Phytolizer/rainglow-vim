@@ -75,6 +75,7 @@ hi Title          guifg=#1cc3e8 guibg=NONE gui=bold
 hi Todo           guifg=#6e7174 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
+hi SignColumn     guifg=NONE guibg=#000000 gui=NONE
 
 "########################################
 "# Language Overrides                   #
